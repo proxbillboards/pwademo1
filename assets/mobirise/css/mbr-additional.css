@@ -1057,47 +1057,6 @@ a {
 .cid-sUGLyHALIw .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-sFADMOwrhN {
-  padding-top: 3rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-@media (max-width: 767px) {
-  .cid-sFADMOwrhN .card-box {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) {
-  .cid-sFADMOwrhN .card-box {
-    padding-right: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-sFADMOwrhN .card-box {
-    padding-left: 2rem;
-    padding-right: 4rem;
-  }
-}
-.cid-sFADMOwrhN .card-wrapper {
-  border-radius: 4px;
-  background-color: #edf5e1;
-}
-.cid-sFADMOwrhN .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-.cid-sFADMOwrhN .card:not(:nth-last-child(1)) {
-  margin-bottom: 2rem;
-}
-.cid-sFADMOwrhN .mbr-text {
-  color: #05386b;
-}
-.cid-sFADMOwrhN .card-title {
-  color: #05386b;
-}
-.cid-sFADMOwrhN .price {
-  color: #05386b;
-}
 .cid-sUGlW9ewKu {
   background-color: #4479d9;
 }
