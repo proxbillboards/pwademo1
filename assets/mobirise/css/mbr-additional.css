@@ -863,6 +863,18 @@ a {
     text-align: center;
   }
 }
+#custom-html-1d {
+  /* Type valid CSS here */
+}
+#custom-html-1d div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-1d p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-sUGkjED1JN {
   background-image: url("../../../assets/images/background15.jpg");
 }
